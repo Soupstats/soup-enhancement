@@ -1,0 +1,7 @@
+/* soup-enhancement nsfw-blur */
+.f_nsfw .imagecontainer img {
+    filter: blur(15px);
+}
+.f_nsfw .imagecontainer img:hover{
+    filter:none;
+}

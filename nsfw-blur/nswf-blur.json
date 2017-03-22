@@ -1,0 +1,9 @@
+{
+  "name": "Blur NSFW content",
+  "description": "This CSS blurs out all content marked as NSFW and makes it back visible on mouse over.",
+  "category": [ "nsfw" ],
+  "type": [ "css" ],
+  "recommendedEnhancements": [ ],
+  "initEvent": "",
+  "initWith": ""
+}

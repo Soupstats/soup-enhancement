@@ -1,0 +1,9 @@
+{
+  "name": "Autoplay html5 Videos",
+  "description": "This module automatically starts the playback of all html5 videos on the actual page, as soon as they are loaded. It also loops them just like a good old gif.",
+  "category": [ "video" ],
+  "type": [ "js" ],
+  "recommendedEnhancements": [ "video-mute" ],
+  "initEvent": "DOMContentLoaded",
+  "initWith": "soupENH_initVideoAutoplay"
+}
