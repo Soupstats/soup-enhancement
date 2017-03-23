@@ -1,0 +1,6 @@
+{
+  "name": "Search Box",
+  "description": "Add a search box to your soup description in the header.",
+  "category": [ "search" ],
+  "type": [ "html" ]
+}
