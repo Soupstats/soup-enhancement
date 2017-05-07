@@ -10,7 +10,7 @@ And finally add JSON file with all meta data.
  
 JSON examples can be found in the existing enhancements.
 
-##JSON Properties
+## JSON Properties
 
 <table>
     <tr>
@@ -46,11 +46,11 @@ JSON examples can be found in the existing enhancements.
         <td><strong>files</strong></td>
         <td>yes</td>
         <td>JSON wit String[]</td>
-        <td>```JSON
-        { "js": [ 'file-01.js', 'file-02.js' ],
-        "css": [ 'my_style.css' ]
-        ```
-        </td>
+        <td>
+        "files": { <br>
+            "js": [ 'file-01.js', 'file-02.js' ],<br>
+            "css": [ 'my_style.css' ]<br>
+        } </td>
         <td>A JSON file which includes a list af all needed files of the enhancement sorted by type.</td>
     </tr>
     <tr>
