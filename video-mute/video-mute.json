@@ -1,9 +1,11 @@
 {
   "name": "Mute html5 Videos",
-  "description": "This module mutes all html5 videos on the actual page.",
+  "description": "This enhancement mutes all html5 videos on the actual page.",
   "category": [ "video" ],
   "type": [ "js" ],
+  "files":  [ "video-mute.js" ],
   "recommendedEnhancements": [ "video-autoplay" ],
   "initEvent": "DOMContentLoaded",
-  "initWith": "soupENH_initVideoMute"
+  "initCall": "soupENH_initVideoMute",
+  "appendOn": null
 }

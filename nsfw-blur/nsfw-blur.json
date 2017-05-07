@@ -1,0 +1,11 @@
+{
+  "name": "Blur NSFW content",
+  "description": "This enhancement blurs out all content marked as NSFW and makes it visible when you mouse over.",
+  "category": [ "nsfw" ],
+  "type": [ "css" ],
+  "files":  [ "nsfw-blur.js" ],
+  "recommendedEnhancements": null,
+  "initEvent": null,
+  "initCall": null,
+  "appendOn": null
+}

@@ -2,5 +2,10 @@
   "name": "Search Box",
   "description": "Add a search box to your soup description in the header.",
   "category": [ "search" ],
-  "type": [ "html" ]
+  "type": [ "html" ],
+  "files":  [ "search-box.html" ],
+  "recommendedEnhancements": null,
+  "initEvent": null,
+  "initCall": null,
+  "appendOn": null
 }

@@ -1,8 +1,11 @@
 {
   "name": "Replace default and broken avatars",
-  "description": "This module finds default or broken avatars and replaces them with avatars from http://avatars.adorable.io based on soup names.",
+  "description": "This enhancement finds default or broken avatars and replaces them with avatars from http://avatars.adorable.io based on soup names.",
   "category": [ "avatar" ],
   "type": [ "js" ],
+  "files":  [ "replace-default-avatars.js" ],
+  "recommendedEnhancements": null,
   "initEvent": "DOMContentLoaded",
-  "initWith": "soupENH_initReplaceDefaultAvatars"
+  "initCall": "soupENH_initReplaceDefaultAvatars",
+  "appendOn": null
 }
