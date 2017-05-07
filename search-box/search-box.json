@@ -4,7 +4,7 @@
   "category": [ "search" ],
   "type": [ "html" ],
   "files":  [ "search-box.html" ],
-  "recommendedEnhancements": null,
+  "recommendedEnh": null,
   "initEvent": null,
   "initCall": null,
   "appendOn": null

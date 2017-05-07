@@ -4,7 +4,7 @@
   "category": [ "avatar" ],
   "type": [ "js" ],
   "files":  [ "replace-default-avatars.js" ],
-  "recommendedEnhancements": null,
+  "recommendedEnh": null,
   "initEvent": "DOMContentLoaded",
   "initCall": "soupENH_initReplaceDefaultAvatars",
   "appendOn": null

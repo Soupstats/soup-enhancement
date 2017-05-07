@@ -54,10 +54,10 @@ JSON examples can be found in the existing enhancements.
         <td>A JSON file which includes a list af all needed files of the enhancement sorted by type.</td>
     </tr>
     <tr>
-        <td><strong>recommendedEnhancements</strong></td>
+        <td><strong>recommendedEnh</strong></td>
         <td>no</td>
         <td>String[]</td>
-        <td>"recommendedEnhancements": [ 'video-mute', 'video-autoplay' ]</td>
+        <td>"recommendedEnh": [ 'video-mute', 'video-autoplay' ]</td>
         <td>Recommend other enhancements if the would complement your enhancement.</td>
     </tr>    
     <tr>

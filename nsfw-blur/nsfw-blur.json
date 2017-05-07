@@ -4,7 +4,7 @@
   "category": [ "nsfw" ],
   "type": [ "css" ],
   "files":  [ "nsfw-blur.js" ],
-  "recommendedEnhancements": null,
+  "recommendedEnh": null,
   "initEvent": null,
   "initCall": null,
   "appendOn": null

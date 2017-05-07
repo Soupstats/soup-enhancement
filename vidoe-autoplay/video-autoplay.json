@@ -4,7 +4,7 @@
   "category": [ "video" ],
   "type": [ "js" ],
   "files":  [ "video-autoplay.js" ],
-  "recommendedEnhancements": [ "video-mute" ],
+  "recommendedEnh": [ "video-mute" ],
   "initEvent": "DOMContentLoaded",
   "initCall": "soupENH_initVideoAutoplay",
   "appendOn": null
